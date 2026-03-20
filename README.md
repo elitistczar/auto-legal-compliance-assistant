@@ -37,3 +37,12 @@ Generate privacy policies, terms of service, and cookie banners in seconds — r
 [alc_terms_of_service]
 [alc_cookie_banner]
 [alc_compliance_badge]   <!-- Pro -->
+
+Legal Disclaimer
+This plugin provides template generators only. It is not a substitute for legal advice. Kennedy Media and Anthony Acosta are not liable for any legal outcomes. Always consult a qualified attorney for your jurisdiction.
+
+Author & Support
+Anthony Acosta
+X/Twitter: @TheAmericanCzar
+Website: kennedymedia.com
+
